@@ -1,32 +1,68 @@
 ### Hi there 👋, my name is Isabella Ferreira
 
-I am Full-stack developer.
-I am a Full-stack student at Digital House, Brazil. Always trying to improve, currently looking for an opportunity to grow as a professional.
+##### I am Full-stack developer.
+###### I am a Full-stack student at Digital House, Brazil. Always trying to improve, currently looking for an opportunity to grow as a professional.
 
-<div align="center">
- <a href="https://github.com/isocabp">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isocabp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isocabp&layout=compact&langs_count=7&theme=radical"/>
+### Languages and Tools:
+
+- Main Stack 
+
+<div id="badges">
+    <a href="https://github.com/isocap">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+- Also
+
+<div id="badges">
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
+  </a>
+
+ - Tools
+<div id="badges">
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>  
 </div>
 
-##
 
-<div>
+### Currently:
+
+- Currently learning about the React framework on personal projects.
+
+### My social medias:
+  
+ <div>
  <a href="https://www.linkedin.com/in/isabellabferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:isabellab.ferreira5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
  <a href="https://instagram.com/isocabf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://wa.me/5521998364832" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+</div> 
   
 ##
+
+ <div align="center">
+ <a href="https://github.com/isocabp">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isocabp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isocabp&layout=compact&langs_count=7&theme=radical"/>
+  </div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical)](https://git.io/streak-stats)
   
