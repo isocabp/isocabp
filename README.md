@@ -17,6 +17,12 @@
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  </a>  
 </div>
 
 - Also
@@ -25,6 +31,14 @@
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
   </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Badge"/>
+  </a>
+</div>
+
 
  - Tools
 <div id="badges">
@@ -40,6 +54,15 @@
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>  
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
+  </a>  
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
+  </a> 
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass Badge"/>
+  </a> 
 </div>
 
 
