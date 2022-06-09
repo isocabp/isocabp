@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Isabella Ferreira
+### Heyyyy 👋, my name is Isabella Ferreira
 
-##### I am Full-stack developer.
-###### I am a Full-stack student at Digital House, Brazil. Always trying to improve, currently looking for an opportunity to grow as a professional.
+##### I am Full-stack and Mobile Deloper
+###### I am a Full-stack student at Digital House, Brazil and Mobile Developer at Bootcamp Santander.
+###### Always trying to improve, currently looking for an opportunity to grow as a professional.
 
 ### Languages and Tools:
 
-- Main Stack 
+- 👩‍💻 Languages 
 
 <div id="badges">
     <a href="https://github.com/isocap">
@@ -21,29 +22,35 @@
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
   </a>
   <a href="https://github.com/isocabp">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
   </a>  
-</div>
-
-- Also
-
-<div id="badges">
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python Badge"/>
+  </a>
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
   </a>
+</div>
+
+- ⚡ Database
+
+<div id="badges">
   <a href="https://github.com/isocabp">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
   </a>
   <a href="https://github.com/isocabp">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb Badge"/>
+  </a>
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite Badge"/>
   </a>
 </div>
 
 
- - Tools
+ - 🚀 Frameworks & Library
 <div id="badges">
   <a href="https://github.com/isocabp">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django Badge"/>
   </a>
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
@@ -55,7 +62,7 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>  
   <a href="https://github.com/isocabp">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
+    <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp Badge"/>
   </a>  
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
@@ -63,12 +70,24 @@
   <a href="https://github.com/isocabp">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass Badge"/>
   </a> 
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia Badge"/>
+  </a> 
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs Badge"/>
+  </a> 
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node Badge"/>
+  </a> 
+  <a href="https://github.com/isocabp">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react Badge"/>
+  </a> 
 </div>
 
 
 ### Currently:
 
-- Currently learning about the React framework on personal projects.
+- Currently learning about Kotlin and mobile development on personal projects.
 
 ### My social medias:
   
@@ -87,6 +106,12 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isocabp&layout=compact&langs_count=7&theme=radical"/>
   </div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical)](https://git.io/streak-stats)
+ <div align="center">
+ <a href="https://github.com/isocabp">
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical"/>  
+ </div>
+  
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
+
   
 ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
