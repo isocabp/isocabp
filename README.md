@@ -112,9 +112,7 @@
  </div>
   
 ###
-<div align="center">
-  <img height="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"  />
-</div>
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
 ###
 
