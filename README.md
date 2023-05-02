@@ -1,7 +1,6 @@
 ### Heyyyy 👋, my name is Isabella Ferreira
 
-##### I am Full-stack and Mobile Deloper
-###### I am a Full-stack student at Digital House, Brazil and Mobile Developer at Bootcamp Santander.
+##### I am Front-End Developer and Mobile Deloper
 ###### Always trying to improve, currently looking for an opportunity to grow as a professional.
 
 ### Languages and Tools:
@@ -112,7 +111,9 @@
  </div>
   
 ###
-<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<div align="center">
+    <img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+</div>
 
 ###
 
