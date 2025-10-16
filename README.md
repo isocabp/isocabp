@@ -65,15 +65,19 @@ Sou desenvolvedora front-end há 3 anos com experiência em React, Next.js, Type
 ##
 
  <div align="center">
- <a href="https://github.com/isocabp">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isocabp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isocabp&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-  
- <div align="center">
- <a href="https://github.com/isocabp">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical"/>  
+ 	<a href="https://github.com/isocabp">
+ 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isocabp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isocabp&layout=compact&langs_count=7&theme=radical"/>
+ 	</a>
  </div>
+  
+<div align="center">
+  <a href="https://github.com/isocabp">
+    <img src="https://streak-stats.demolab.com?user=isocabp&theme=radical" alt="isocabp streak stats"/>
+  </a>
+</div>
+
+ 
 
 
   
@@ -86,5 +90,5 @@ Sou desenvolvedora front-end há 3 anos com experiência em React, Next.js, Type
 
 ###
 
-  
-![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/isocabp/isocabp/raw/output/github-contribution-grid-snake.svg)
+
