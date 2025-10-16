@@ -90,5 +90,4 @@ Sou desenvolvedora front-end há 3 anos com experiência em React, Next.js, Type
 
 ###
 
-![Snake animation](https://github.com/isocabp/isocabp/raw/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/isocabp/isocabp/main/github-contribution-grid-snake.svg)
